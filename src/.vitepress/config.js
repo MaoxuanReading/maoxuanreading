@@ -1,4 +1,4 @@
-import sidebar from './sidebar.js'
+import sidebar from './sidebar.json'
 module.exports = {
     base: '/maoxuan/',
     title: "毛泽东选集",
@@ -11,9 +11,9 @@ module.exports = {
         sidebar: {
             "/": sidebar
         },
-        repo: 'kumlowhup/maoxuan',
+        repo: 'MaoxuanReading/maoxuanreading.github.io',
         repoLabel: '源码',
-        docsRepo: 'https://github.com/kumlowhup/maoxuan',
+        docsRepo: 'https://github.com/MaoxuanReading/maoxuanreading.github.io',
         docsBranch: 'master',
     }
 }
