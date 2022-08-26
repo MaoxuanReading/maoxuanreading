@@ -1,9 +1,9 @@
-import sidebar from './sidebar.json'
+const sidebar = require('./sidebar.json')
 module.exports = {
-    base: '/maoxuan/',
     title: "毛泽东选集",
     description: "伟大领袖毛主席的著作",
     themeConfig: {
+        base: '/',
         smoothScroll: true,
         nav: [
             { text: '主页', link: '/' },
