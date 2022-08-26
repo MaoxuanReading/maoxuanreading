@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://kumlowhup.github.io/maoxuan/maozedong.jpg
+heroImage: ./maozedong.jpg
 heroText: 毛泽东选集
 tagline: 伟大领袖毛主席的著作
 actionText: 开始阅读 ->
